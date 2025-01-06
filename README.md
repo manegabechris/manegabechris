@@ -1,5 +1,7 @@
 Salut, je suis Chris 👋
-Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par la technologie et la résolution de problèmes. Voici quelques informations sur moi :
+Bienvenue sur mon profil GitHub ! Je suis un développeur front-end et designer UI basé à Goma, dans la province du Nord-Kivu, en République Démocratique du Congo. Passionné par les nouvelles technologies, je suis spécialise dans la création d'expériences web attrayantes et intuitives en combinant habilement le développement front-end et le design UI.
+
+Inspiré par la richesse culturelle et la dynamique vibrante de sa ville natale, il s'efforce d'intégrer des éléments locaux dans ses projets tout en explorant des techniques modernes et innovantes. Favorisant une approche collaborative, il aspire à concevoir des produits digital qui ont un impact positif et qui résonnent avec leur public cible. passionné par la technologie et la résolution de problèmes. Voici quelques informations sur moi :
 
 🚀 À propos de moi
 🌐 J'aime travailler sur le développement web et les projets open source.
